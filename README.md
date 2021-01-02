@@ -4,7 +4,7 @@ Translating SB69 Fes A Live
 
 # Legal
 
-[This Project](https://github.com/HW2955/Project-HWN-A-Live) is for educational purposes only.
+[**This Project**](https://github.com/HW2955/Project-HWN-A-Live) is for educational purposes only.
 Copyright Disclaimer under section 107 of the Copyright Act 1976,
 allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
 
