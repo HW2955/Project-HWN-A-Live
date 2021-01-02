@@ -6,6 +6,7 @@ and it's current goals are: (Sorted by priority)
 - Translating Band stories,
 - Making song editor,
 - Making custom songs a reality.
+- Editing player data (offline)
 - Supporting newer versions of the game
 
 `Mostlikely will require:`
