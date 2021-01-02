@@ -1,11 +1,12 @@
 # Project-HWN-A-Live, what's that about?
-This project focus is on translating SB69 Fes A Live!
+This project focus is on translating SB69 Fes A Live! (Ver. 1.28.0)
 and it's current goals are: (Sorted by priority)
 - Translating Menu's,
 - Translating Characters,
 - Translating Band stories,
 - Making song editor,
 - Making custom songs a reality.
+- Supporting newer versions of the game
 
 `Mostlikely will require:`
 - [rooted](https://en.wikipedia.org/wiki/Rooting_(Android)) device.
