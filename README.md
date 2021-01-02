@@ -5,8 +5,7 @@ and it's current goals are: (Sorted by priority)
 - Translating Characters,
 - Translating Band stories,
 - Making song editor,
-- Making custom songs a reality,
-- Making song editor.
+- Making custom songs a reality.
 
 `Mostlikely will require:`
 - [rooted](https://en.wikipedia.org/wiki/Rooting_(Android)) device.
