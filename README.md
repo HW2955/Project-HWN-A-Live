@@ -7,7 +7,8 @@ Translating SB69 Fes A Live!
 `Mostlikely will require rooted device!`
 
 ## Thanks to:
-[SB69DATA](https://github.com/SB69DATA)
+- [SB69DATA](https://github.com/SB69DATA)
+- [javadecompilers](http://www.javadecompilers.com/apk)
 
 # Legal
 
