@@ -1,5 +1,6 @@
-# Project-HWN-A-Live
-Translating SB69 Fes A Live
+# Project-HWN-A-Live, what's that about?
+Translating SB69 Fes A Live!
+
 
 `Mostlikely will require:`
 - [rooted](https://en.wikipedia.org/wiki/Rooting_(Android)) device.
