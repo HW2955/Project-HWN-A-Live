@@ -1,5 +1,6 @@
 # Project-HWN-A-Live
 Translating SB69 Fes A Live
+*Mostlikely will require rooted device!
 
 # Legal
 
