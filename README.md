@@ -8,14 +8,28 @@ and it's current goals are: (Sorted by priority)
 - Making custom songs a reality.
 - Editing player data (offline)
 - Supporting newer versions of the game
-
 `Mostlikely will require:`
 - [rooted](https://en.wikipedia.org/wiki/Rooting_(Android)) device.
+I won't go into detail on how to root your device since there are *many many* devices,
+only tip that i'll give you is to **backup your device** on cloud, pc whatever... Just do it.
+------------------
+
+As for bluestack users you will require [rooted bluestacks](https://bstweaker.tk/)
+- Download [this software](https://bstweaker.tk/)
+- Force kill BlueStacks from Main tab,
+- Go to Root tab in BS Tweaker and click on Unlock
+- Go to Main tab, open BlueStacks clicking Start BS & let it load completely.
+- Go to Root tab and click on Patch and your BlueStacks is rooted.
+- To install SuperSu 2.79 click on Install SuperSU
+- And thats it, now youi have Bluestacks with access to root folder
+
 
 ## Thanks to:
 - [SB69DATA](https://github.com/SB69DATA)
 - [javadecompilers](http://www.javadecompilers.com/apk)
 - [QooApp](https://www.qoo-app.com/en)
+- [BSTweaker](https://bstweaker.tk/)
+- [sangams](https://sangams.com.np/how-to-root-bluestacks-latest-version/)
 
 # Legal
 [This Project](https://github.com/HW2955/Project-HWN-A-Live) is for educational purposes only.
