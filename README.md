@@ -9,11 +9,13 @@ and it's current goals are: (Sorted by priority)
 - Editing player data (offline),
 - Supporting newer versions of the game.\
 All of this `Mostlikely will require:`
+
+###Mobile
 - [rooted](https://en.wikipedia.org/wiki/Rooting_(Android)) device.
 I won't go into detail on how to root your device since there are *many many* devices,
 only tip that i'll give you is to **backup your device** on cloud, pc whatever... Just do it.
 ------------------
-
+###Emulation
 As for bluestack users you will require [rooted bluestacks](https://bstweaker.tk/)
 - Download [this software](https://bstweaker.tk/)
 - Force kill BlueStacks from Main tab,
@@ -27,11 +29,8 @@ As for bluestack users you will require [rooted bluestacks](https://bstweaker.tk
 
 - [Perfare](https://github.com/Perfare/AssetStudio), For his awesome tool
 - [SB69DATA](https://github.com/SB69DATA), A github with some game data.
-- [javadecompilers](http://www.javadecompilers.com/apk), For nice apk decompiler
-- [QooApp](https://www.qoo-app.com/en), For SB69Fes apk
-- [BSTweaker](https://bstweaker.tk/), For awesome tool to tweak bluestacks
-- [sangams](https://sangams.com.np/how-to-root-bluestacks-latest-version/), For tutorial on tweaking bluestacks
-- [android stackexchange](https://android.stackexchange.com/questions/47924/where-android-apps-store-data), For some information on how android games store files
+- [javadecompilers](http://www.javadecompilers.com/apk), For their nice apk decompiler
+- [BSTweaker](https://bstweaker.tk/), For their awesome tool to tweak bluestacks
 
 # Legal
 [This Project](https://github.com/HW2955/Project-HWN-A-Live) is for educational purposes only.
