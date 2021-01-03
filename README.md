@@ -21,10 +21,11 @@ As for bluestack users you will require [rooted bluestacks](https://bstweaker.tk
 - Go to Main tab, open BlueStacks clicking Start BS & let it load completely.
 - Go to Root tab and click on Patch and your BlueStacks is rooted.
 - To install SuperSu 2.79 click on Install SuperSU
-- And thats it, now youi have Bluestacks with access to root folder
-
+- And thats it, now you have Bluestacks with access to root folder
 
 ## Thanks to:
+
+- [Perfare](https://github.com/Perfare/AssetStudio), For his awesome tool
 - [SB69DATA](https://github.com/SB69DATA), A github with some game data.
 - [javadecompilers](http://www.javadecompilers.com/apk), For nice apk decompiler
 - [QooApp](https://www.qoo-app.com/en), For SB69Fes apk
