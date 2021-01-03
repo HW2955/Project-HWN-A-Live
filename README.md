@@ -8,14 +8,12 @@ and it's current goals are: (Sorted by priority)
 - Making custom songs a reality.
 - Editing player data (offline),
 - Supporting newer versions of the game.\
-All of this `Mostlikely will require:`
 
-###Mobile
+All of this `Mostlikely will require:`
 - [rooted](https://en.wikipedia.org/wiki/Rooting_(Android)) device.
 I won't go into detail on how to root your device since there are *many many* devices,
 only tip that i'll give you is to **backup your device** on cloud, pc whatever... Just do it.
 ------------------
-###Emulation
 As for bluestack users you will require [rooted bluestacks](https://bstweaker.tk/)
 - Download [this software](https://bstweaker.tk/)
 - Force kill BlueStacks from Main tab,
