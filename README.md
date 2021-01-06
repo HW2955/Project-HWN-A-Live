@@ -23,9 +23,9 @@ As for bluestack users you will require [rooted bluestacks](https://bstweaker.tk
 - To install SuperSu 2.79 click on Install SuperSU
 - And thats it, now you have Bluestacks with access to root folder
 ------------------
-So, how would i go about decompiling the game itself?\
+So, how would i go about decompiling the game itself?
 - Get your hands on apk file, using [apk extractor](https://play.google.com/store/apps/details?id=com.ext.ui) or just download it off internet, doesn't really matter.
-- Go to [javadecompilers](http://www.javadecompilers.com/apk), click on "Choose file" and then click "Upload and decompile". Keep in mind that his process will take some time.
+- Go to [javadecompilers](http://www.javadecompilers.com/apk), click on "Choose file" and then click "Upload and decompile".\Keep in mind that his process will take some time.
 - use [AssetStudio](https://github.com/Perfare/AssetStudio) to decompile files you downloaded.
 - That's it, that simple.
 ## Thanks to:
