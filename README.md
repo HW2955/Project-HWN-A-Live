@@ -1,5 +1,7 @@
 # Project-HWN-A-Live, what's that about?
-This project focus is on translating SB69 Fes A Live! (Ver. 1.28.0)\
+This project focus is on translating SB69 Fes A Live!\
+Current Ver: 1.3.1.0\
+Status: On Hold\
 and it's current goals are: (Sorted by priority)
 - Translating Menu's,
 - Translating Characters,
