@@ -1,7 +1,7 @@
 # Project-HWN-A-Live, what's that about?
 This project focus is on translating SB69 Fes A Live!\
 Current Ver: `1.35.0`\
-Status: `On Hold until 4/7/2021`\
+Status: `On Hold until *i don't fucking know*`\
 Current Task: `Decompile game data`\
 and it's current goals are: (Sorted by priority)
 - Translating Menu's,
